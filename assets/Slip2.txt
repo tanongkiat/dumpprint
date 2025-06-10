@@ -1,0 +1,72 @@
+9�C��A���D~�F,"AUTO.BAS"
+COPY F,"courmon.TTF","courmon.TTF"
+EOP
+AUTO.BAS
+SIZE 58 mm, 5 mm
+Q0,0
+CLS
+SPEED 4
+DENSITY 12
+CODEPAGE UTF-8
+SET TEAR ON
+TEXT 32, 0,"courmon.TTF",0,6,8,"      
+"
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"      
+"
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"  CP ALL,7-Eleven คุณาลัย-บางใหญ่   (07465)"
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"    TAX#0107542000011 (VAT Included)    "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"  Vat Code 05757 POS#092C2CWP09800442   "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"               ใบรับฝากเงิน               "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"1   L To Home                   100.00N "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"ยอดสุทธิ    1 ชิ้น        100.00            "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"เงินสด/เงินทอน          100.00      0.00  "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"R#1000001669P1 :4613984   09/06/68 14:56"
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"     ** ศูนย์ลูกค้าสัมพันธ์ 0-2826-7744 **     "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"ตรวจสอบสถานะพัสดุได้ที่                      "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"https://www-uat.allspeedy.co.th/        "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"status-tracking                         "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"                                        "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"Speed-D Call Center                     "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"โทร 02-036-5788 (ตลอด 24 ชม.)           "
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"      
+"
+PRINT 1, 1
+CLS
+TEXT 32, 0,"courmon.TTF",0,6,8,"      
+"
+PRINT 1, 1
+CLS
